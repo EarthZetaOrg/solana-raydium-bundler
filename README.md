@@ -3,10 +3,15 @@
 As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively.
 # 👤 Contact Me
 
-### Discord: [Earth Zeta](https://discord.com/users/339619501081362432)   
-earthzeta
-### Telegram: [₿TC-GOD WEB3](https://t.me/opensea712)   
-https://t.me/opensea712
+### Discord: earthzeta
+### Telegram: magiceden7
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/magiceden7" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
 
 Feel free to contact me if you need any help.
 
