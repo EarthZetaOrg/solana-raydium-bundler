@@ -1,11 +1,12 @@
 # Solana Raydium Bundler Using JITO and LOOKUPTABLE
 
 As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively.
-# 👤 Contact Me
+# 👋 Contact Me
 
-### Discord: earthzeta
-### Telegram: magiceden7
-
+### 
+Discord: earthzeta             
+Telegram: magiceden7
+###
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -13,7 +14,8 @@ As solana raydium jito bundler, it designed to facilitate buying and selling wit
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 
-Feel free to contact me if you need any help.
+
+#### Feel free to contact me if you need any help.
 
 ## Overview
 
