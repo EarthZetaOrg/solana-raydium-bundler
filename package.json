@@ -6,7 +6,7 @@
 	"scripts": {
 		"start": "ts-node jitoPool.ts"
 	},
-	"author": "https://t.me/benorizz0/",
+	"author": "https://t.me/earthzeta/",
 	"license": "ISC",
 	"dependencies": {
 		"@coral-xyz/anchor": "^0.29.0",
