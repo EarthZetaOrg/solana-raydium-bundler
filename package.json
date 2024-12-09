@@ -1,7 +1,7 @@
 {
 	"name": "Solana-Bundler",
 	"version": "1.0.0",
-	"description": "https://t.me/benorizz0",
+	"description": "https://t.me/earthzeta",
 	"main": "index.js",
 	"scripts": {
 		"start": "ts-node jitoPool.ts"
